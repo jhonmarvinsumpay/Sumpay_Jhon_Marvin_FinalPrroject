@@ -1,0 +1,21 @@
+"Product_ID","Product_Name","Category","Price_PHP","Stock_Qty","Inventory_Value"
+"CS001","Ryzen 5 5600 Processor","Processor",8490,25,212250
+"CS003","GeForce RTX 4060 8GB","Graphics Card",21500,9,193500
+"CS002","Core i5-12400F Processor","Processor",8990,18,161820
+"CS004","Radeon RX 7600 8GB","Graphics Card",19800,7,138600
+"CS010","1TB NVMe SSD","Storage",4600,22,101200
+"CS008","32GB DDR5 5600MHz RAM","Memory",5900,16,94400
+"CS005","B550M Motherboard","Motherboard",6700,14,93800
+"CS007","16GB DDR4 3200MHz RAM","Memory",2100,40,84000
+"CS009","500GB NVMe SSD","Storage",2800,30,84000
+"CS016","24-inch 144Hz Monitor","Monitor",7800,10,78000
+"CS017","27-inch IPS Monitor","Monitor",9500,8,76000
+"CS012","650W 80+ Bronze PSU","Power Supply",3500,20,70000
+"CS006","B660M DS3H Motherboard","Motherboard",6200,11,68200
+"CS018","Mechanical Keyboard","Peripheral",1850,35,64750
+"CS011","2TB External HDD","Storage",5200,12,62400
+"CS020","Gaming Headset","Peripheral",2400,19,45600
+"CS019","Wireless Gaming Mouse","Peripheral",1600,28,44800
+"CS013","Mid-Tower ATX Case","PC Case",2900,15,43500
+"CS015","Air CPU Cooler","Cooling",1450,24,34800
+"CS014","120mm RGB Case Fan","Cooling",350,60,21000

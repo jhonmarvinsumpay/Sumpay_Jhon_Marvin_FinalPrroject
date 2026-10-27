@@ -1,0 +1,4 @@
+"Product_ID","Product_Name","Category","Brand","Price_PHP","Stock_Qty"
+"CS011","2TB External HDD","Storage","Seagate",5200,12
+"CS010","1TB NVMe SSD","Storage","WD",4600,22
+"CS009","500GB NVMe SSD","Storage","Samsung",2800,30

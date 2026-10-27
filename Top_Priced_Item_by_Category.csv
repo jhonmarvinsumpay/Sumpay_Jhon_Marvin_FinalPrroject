@@ -1,0 +1,11 @@
+"Product_ID","Product_Name","Category","Brand","Price_PHP","Stock_Qty"
+"CS015","Air CPU Cooler","Cooling","Deepcool",1450,24
+"CS003","GeForce RTX 4060 8GB","Graphics Card","NVIDIA",21500,9
+"CS008","32GB DDR5 5600MHz RAM","Memory","Corsair",5900,16
+"CS017","27-inch IPS Monitor","Monitor","LG",9500,8
+"CS005","B550M Motherboard","Motherboard","ASUS",6700,14
+"CS013","Mid-Tower ATX Case","PC Case","Cooler Master",2900,15
+"CS020","Gaming Headset","Peripheral","HyperX",2400,19
+"CS012","650W 80+ Bronze PSU","Power Supply","Corsair",3500,20
+"CS002","Core i5-12400F Processor","Processor","Intel",8990,18
+"CS011","2TB External HDD","Storage","Seagate",5200,12

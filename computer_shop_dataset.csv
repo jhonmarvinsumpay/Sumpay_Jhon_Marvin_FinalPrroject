@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Brand,Price_PHP,Stock_Qty
+CS001,Ryzen 5 5600 Processor,Processor,AMD,8490,25
+CS002,Core i5-12400F Processor,Processor,Intel,8990,18
+CS003,GeForce RTX 4060 8GB,Graphics Card,NVIDIA,21500,9
+CS004,Radeon RX 7600 8GB,Graphics Card,AMD,19800,7
+CS005,B550M Motherboard,Motherboard,ASUS,6700,14
+CS006,B660M DS3H Motherboard,Motherboard,Gigabyte,6200,11
+CS007,16GB DDR4 3200MHz RAM,Memory,Kingston,2100,40
+CS008,32GB DDR5 5600MHz RAM,Memory,Corsair,5900,16
+CS009,500GB NVMe SSD,Storage,Samsung,2800,30
+CS010,1TB NVMe SSD,Storage,WD,4600,22
+CS011,2TB External HDD,Storage,Seagate,5200,12
+CS012,650W 80+ Bronze PSU,Power Supply,Corsair,3500,20
+CS013,Mid-Tower ATX Case,PC Case,Cooler Master,2900,15
+CS014,120mm RGB Case Fan,Cooling,Deepcool,350,60
+CS015,Air CPU Cooler,Cooling,Deepcool,1450,24
+CS016,24-inch 144Hz Monitor,Monitor,AOC,7800,10
+CS017,27-inch IPS Monitor,Monitor,LG,9500,8
+CS018,Mechanical Keyboard,Peripheral,Redragon,1850,35
+CS019,Wireless Gaming Mouse,Peripheral,Logitech,1600,28
+CS020,Gaming Headset,Peripheral,HyperX,2400,19
